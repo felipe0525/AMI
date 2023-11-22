@@ -1,0 +1,14 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+        android:id="@+id/navigation_mis_listas"
+        android:icon="@drawable/icono_mis_listas"
+        android:title="Mis listas" />
+    <item
+        android:id="@+id/navigation_nueva_lista"
+        android:icon="@drawable/icono_nueva_lista"
+        android:title="Nueva lista" />
+    <item
+        android:id="@+id/navigation_salir"
+        android:icon="@drawable/icono_salir"
+        android:title="Salir" />
+</menu>

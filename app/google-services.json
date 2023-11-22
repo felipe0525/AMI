@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "503562964917",
+    "project_id": "pentalinkami",
+    "storage_bucket": "pentalinkami.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:503562964917:android:9a21b3a0b329d1331b13fc",
+        "android_client_info": {
+          "package_name": "com.example.pentalikami"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDdiQQRQk3-VRdtXXHqNlMDGMoJ6l7FOfY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

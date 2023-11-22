@@ -1,0 +1,15 @@
+<!-- res/layout/dialog_nombre_lista.xml -->
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:orientation="vertical"
+    android:padding="16dp">
+
+    <EditText
+        android:id="@+id/editTextNombreLista"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:hint="Ingrese el nombre de la lista"
+        android:inputType="text"/>
+
+</LinearLayout>

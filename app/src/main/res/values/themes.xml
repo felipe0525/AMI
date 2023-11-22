@@ -1,0 +1,28 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <!-- Base application theme. -->
+    <style name="Base.Theme.PentalikAmi" parent="Theme.Material3.DayNight.NoActionBar">
+        <!-- Customize your light theme here. -->
+        <item name="colorPrimary">@color/my_light_primary</item>
+
+
+
+
+
+    </style>
+
+    <style name="Theme.PentalikAmi" parent="Base.Theme.PentalikAmi">
+        <!-- Estilo para BottomNavigationView -->
+        <item name="bottomNavigationStyle">@style/BottomNavigation</item>
+    </style>
+
+    <!-- Estilo específico para BottomNavigationView -->
+    <style name="BottomNavigation" parent="Widget.Material3.BottomNavigationView">
+        <item name="itemIconTint">@color/bottom_nav_item_color</item>
+        <item name="itemTextColor">@color/bottom_nav_item_color</item>
+        <!-- Asegúrate de definir el color de fondo que desees -->
+        <item name="android:background">@color/background_color</item>
+
+    </style>
+
+
+</resources>

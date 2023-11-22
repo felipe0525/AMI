@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- Dimensiones para los íconos de BottomNavigationView -->
+    <dimen name="selected_icon_size">40dp</dimen> <!-- Tamaño para ícono seleccionado -->
+    <dimen name="default_icon_size">24dp</dimen> <!-- Tamaño por defecto para íconos -->
+</resources>
